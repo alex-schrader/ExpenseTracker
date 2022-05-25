@@ -1,2 +1,2 @@
 # ExpenseTracker
-Site is hosted at https://aschrad1.github.io/ExpenseTracker/ with ghPages
+Site is hosted at https://alex-schrader.github.io/ExpenseTracker/ with ghPages
